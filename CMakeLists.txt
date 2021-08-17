@@ -3,7 +3,7 @@ PROJECT(vocus2)
 find_package(OpenCV REQUIRED)
 set(NAME_SRC
     	src/vocus2.cpp
-	src/vocus_test.cpp	
+	src/vocus2_test.cpp	
 )
 
 set(NAME_HEADERS       
